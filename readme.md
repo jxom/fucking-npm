@@ -20,12 +20,10 @@ $ fucking-npm --help
 
 ```
 $ fucking-npm zsh
-
 Successfully fucking binded 'npm' to 'fucking'
 Restart your fucking shell to use it.
 
 $ fucking
-
 Usage: npm <command>
 
 where <command> is one of:
@@ -43,6 +41,9 @@ npm <command> -h     quick help on <command>
 npm -l           display full usage info
 npm help <term>  search for help on <term>
 npm help npm     involved overview
+
+$ fucking install
+up to date in 6.075s
 ```
 
 
